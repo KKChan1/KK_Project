@@ -1,0 +1,16 @@
+C:\Users\KK Chan\Desktop\C#學習冊\bilibili Zhao Day 16\06 Server\bin\Debug\net8.0-windows\06 Server.exe
+C:\Users\KK Chan\Desktop\C#學習冊\bilibili Zhao Day 16\06 Server\bin\Debug\net8.0-windows\06 Server.deps.json
+C:\Users\KK Chan\Desktop\C#學習冊\bilibili Zhao Day 16\06 Server\bin\Debug\net8.0-windows\06 Server.runtimeconfig.json
+C:\Users\KK Chan\Desktop\C#學習冊\bilibili Zhao Day 16\06 Server\bin\Debug\net8.0-windows\06 Server.dll
+C:\Users\KK Chan\Desktop\C#學習冊\bilibili Zhao Day 16\06 Server\bin\Debug\net8.0-windows\06 Server.pdb
+C:\Users\KK Chan\Desktop\C#學習冊\bilibili Zhao Day 16\06 Server\obj\Debug\net8.0-windows\_06_Server.Form1.resources
+C:\Users\KK Chan\Desktop\C#學習冊\bilibili Zhao Day 16\06 Server\obj\Debug\net8.0-windows\06 Server.csproj.GenerateResource.cache
+C:\Users\KK Chan\Desktop\C#學習冊\bilibili Zhao Day 16\06 Server\obj\Debug\net8.0-windows\06 Server.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KK Chan\Desktop\C#學習冊\bilibili Zhao Day 16\06 Server\obj\Debug\net8.0-windows\06 Server.AssemblyInfoInputs.cache
+C:\Users\KK Chan\Desktop\C#學習冊\bilibili Zhao Day 16\06 Server\obj\Debug\net8.0-windows\06 Server.AssemblyInfo.cs
+C:\Users\KK Chan\Desktop\C#學習冊\bilibili Zhao Day 16\06 Server\obj\Debug\net8.0-windows\06 Server.csproj.CoreCompileInputs.cache
+C:\Users\KK Chan\Desktop\C#學習冊\bilibili Zhao Day 16\06 Server\obj\Debug\net8.0-windows\06 Server.dll
+C:\Users\KK Chan\Desktop\C#學習冊\bilibili Zhao Day 16\06 Server\obj\Debug\net8.0-windows\refint\06 Server.dll
+C:\Users\KK Chan\Desktop\C#學習冊\bilibili Zhao Day 16\06 Server\obj\Debug\net8.0-windows\06 Server.pdb
+C:\Users\KK Chan\Desktop\C#學習冊\bilibili Zhao Day 16\06 Server\obj\Debug\net8.0-windows\06 Server.genruntimeconfig.cache
+C:\Users\KK Chan\Desktop\C#學習冊\bilibili Zhao Day 16\06 Server\obj\Debug\net8.0-windows\ref\06 Server.dll
